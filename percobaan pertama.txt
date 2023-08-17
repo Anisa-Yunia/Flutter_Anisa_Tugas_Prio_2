@@ -1,6 +1,0 @@
-
-percobaan pertama 
-
-percobaan kedua untuk git pull
-
-percobaan conflict & percobaan stash & local
