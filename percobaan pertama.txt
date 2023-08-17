@@ -3,4 +3,4 @@ percobaan pertama
 
 percobaan kedua untuk git pull
 
-percobaan conflict
+percobaan conflict & percobaan stash
